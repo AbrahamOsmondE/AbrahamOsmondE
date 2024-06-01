@@ -23,5 +23,5 @@
 ###
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbrahamOsmondE/AbrahamOsmondE/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AbrahamOsmondE/AbrahamOsmondE/output/github-snake.svg" alt="snake animation" />
 </div>
